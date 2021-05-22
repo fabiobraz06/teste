@@ -1,0 +1,19 @@
+#EXTM3U
+
+ESPORTES
+############
+
+################################################################################# 
+
+
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180605/ucj/kisspng-santiago-bernabu-stadium-real-madrid-c-f-la-lig-real-madrid-5b1695dda4f7e0.7335341615282068136757.jpg" group-title="Esportes", REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#1
+
+#EXTINF:-1 tvg-logo="https://new.static.tv.nu/19402405" group-title="Esportes",VIASAT SPORT
+http://persik.by/stream/2944/263250/10249.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8HkYj8Y0OLw/maxresdefault.jpg"group-title="Esportes", REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7R3qcx.png"group-title="Esportes", ALL SPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w26814455.m3u8
